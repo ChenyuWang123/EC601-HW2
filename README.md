@@ -1,5 +1,9 @@
 # Descripiton
-This is the homework for the EC605 HW2
+This is the homework for the EC605 HW2 including codes for the two tasks.
+
+# Trello
+The trello link lists below:
+https://trello.com/b/Rq4EUlmM/ec601-hw2
 
 ## Task1
 The first task is to build a develop and run the exampel application provided by Android. The profile "main" is the file of the Task 1
