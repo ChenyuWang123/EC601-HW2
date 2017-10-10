@@ -29,13 +29,20 @@ To accomplish Task One, there are some steps to follow:
 
 11.Create the second activity
 
-12.Add a text view
+12.Add a text view where the message will appear.
 
-13.Display the message
+13.Display the message. Modify the second activity to display the message that was passed by the first activity.
 
-14.Add up navigation
+14.Add up navigation. Declare which activity is the logical parent in the AndroidManifest.xml file.
 
 15.The app is done! Connect my device to the laptop and then click "run" to install the app in my device.
+
+### Demonstration
+Task1_1 is the input of the app.
+Task1_2 is the output of the app.
+
+## Task2
+
 
 
 
