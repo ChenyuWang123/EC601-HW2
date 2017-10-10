@@ -23,5 +23,19 @@ To accomplish Task One, there are some steps to follow:
 
 8.Make the text box size flexible. Put some comstrains between the text box and the botton so that they seems more integrated.
 
+9.Realize the respond to the send button. Add the sendMessage() method stub.  Return to the activity_main.xml file to call this method from the button
+
+10.Build an Intent
+
+11.Create the second activity
+
+12.Add a text view
+
+13.Display the message
+
+14.Add up navigation
+
+15.The app is done! Connect my device to the laptop and then click "run" to install the app in my device.
+
 
 
