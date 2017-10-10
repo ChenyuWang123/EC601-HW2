@@ -1,7 +1,7 @@
 # Descripiton
 This is the homework for the EC605 HW2 including codes for the two tasks.
 
-Main is for task 1 and friendlip is for task 2.
+Main is for task 1 and friendlypics is for task 2.
 
 # Trello
 The trello link lists below:
