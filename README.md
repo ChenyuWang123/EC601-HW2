@@ -8,10 +8,10 @@ The trello link lists below:
 
 https://trello.com/b/Rq4EUlmM/ec601-hw2
 
-## Task1
+# Task1
 The first task is to build a develop and run the exampel application provided by Android. The profile "main" is the file of the Task 1
 
-### Step
+## Step
 To accomplish Task One, there are some steps to follow:
 
 1.Download and install Android Studio.(That is the basic application for the development.)
@@ -44,18 +44,18 @@ To accomplish Task One, there are some steps to follow:
 
 15.The app is done! Connect my device to the laptop and then click "run" to install the app in my device.
 
-### Demonstration
+## Demonstration
 Picture Task1_1 is the input of the app.
 Picture Task1_2 is the output of the app.
 
-## Task2
+# Task2
 Task 2 is to realize the storage. Users could use geogle account to log in. In the app, users can upload, download pictures. They can also choose whether they like the pictures has been uploaded and make comments on those pictures.
 
 ## Authentication
 
 Connect the project to the firebase. Then in firebase, add the authentication function(I choose gmail as the method.) to the application.
 
-### Demonstration
+## Demonstration
 There is a video demonstration for this task. It shows the funcitons of the app.
 
 The link lists below:
