@@ -38,11 +38,15 @@ To accomplish Task One, there are some steps to follow:
 15.The app is done! Connect my device to the laptop and then click "run" to install the app in my device.
 
 ### Demonstration
-Task1_1 is the input of the app.
-Task1_2 is the output of the app.
+Picture Task1_1 is the input of the app.
+Picture Task1_2 is the output of the app.
 
 ## Task2
+Task 2 is to realize the storage. Users could use geogle account to log in. In the app, users can upload, download pictures. They can also choose whether they like the pictures has been uploaded and make comments on those pictures.
 
+### Demonstration
+There is a video demonstration for this task. It shows the funcitons of the app.
+The link is https://drive.google.com/open?id=0B_zGEv9mxlpkZnVqdXNRd0JPWmc
 
 
 
