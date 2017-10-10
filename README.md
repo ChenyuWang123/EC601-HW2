@@ -44,6 +44,10 @@ Picture Task1_2 is the output of the app.
 ## Task2
 Task 2 is to realize the storage. Users could use geogle account to log in. In the app, users can upload, download pictures. They can also choose whether they like the pictures has been uploaded and make comments on those pictures.
 
+## Authentication
+
+Connect the project to the firebase. Then in firebase, add the authentication function(I choose gmail as the method.) to the application.
+
 ### Demonstration
 There is a video demonstration for this task. It shows the funcitons of the app.
 The link is https://drive.google.com/open?id=0B_zGEv9mxlpkZnVqdXNRd0JPWmc
