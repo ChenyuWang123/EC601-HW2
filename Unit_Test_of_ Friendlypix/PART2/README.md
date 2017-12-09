@@ -25,3 +25,13 @@ Samsung Galaxy S7 (T-Mobile) 6.0.1
 Samsung Galaxy S7 Edge SM-G935F
 
 I choose theses because I want to test different brands of the phone, differenr version of the andriod. Also, the exist of the Edge also is in my consideration.
+
+## Pictures for the result.
+
+There are several pictures in the file for description of the results of the test. The screenshots are the pictures for the errors during the test.
+
+## Analysis of the result.
+
+The application works well during most of the situations. The test of the google pixel 2 doesn't work because the source of the phone in AWS has some issues I think. The only error happened on the Huawei Nexus 6P. I think that is because that the version of the android system on that phone has been adjusted. So the application doesn't fit it very well.
+
+Overall, the application passed the test and is reliable.
